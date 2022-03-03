@@ -1,0 +1,6 @@
+#define INPUT_BUFFER_SIZE 1024
+#define TOKEN_BUFFER_SIZE 32
+
+#define STACK_HEIGHT 32
+
+#define TOKEN_DELIM " \t\r\n\a"
