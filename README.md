@@ -6,7 +6,7 @@ bob is a command line shell build from scratch for learning purposes.
 
 ```
   make
-  ./main
+  bin/./bob
 ```
 
 ## Why bob?
