@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "headers/builtin.h"
-#include "headers/parse.h"
-#include "headers/read.h"
+#include "builtin.h"
+#include "parse.h"
+#include "read.h"
 
 int main(int argc, char **argv) {
   char *line;

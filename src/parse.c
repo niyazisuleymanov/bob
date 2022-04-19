@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "headers/def.h"
+#include "def.h"
 
 char **parse(char *line) {
   int buffer_size = TOKEN_BUFFER_SIZE;

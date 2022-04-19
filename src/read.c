@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "headers/def.h"
+#include "def.h"
 
 char *read_input() {
   int buffer_size = INPUT_BUFFER_SIZE;
