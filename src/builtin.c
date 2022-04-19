@@ -62,4 +62,5 @@ int exec_shell_builtin(char **args) {
   }
 
   execute(args);
+  return 1;
 }
